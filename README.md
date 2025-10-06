@@ -1,2 +1,2 @@
-# MRM
-[ICCV' 23] MRM: Masked Relation Modeling for Medical Image Pre-Training with Genetics
+# MRM++
+Source codes of MRM++: nhanced Masked Relation Modeling for Multi-Modal Medical Pre-Training
